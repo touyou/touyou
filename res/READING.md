@@ -9,4 +9,6 @@
 |技術書|iOSテスト全書|2019/10/21|未|
 |実用書|東大院生が開発！頭のいい説明は型で決まる|2019|2019/10/25|
 |実用書|最高の結果を引き出す質問力 試し読み増量版|2019/10|2019/11/03|
-|論文|Voice Augmented Manipulation: Using Paralinguistic Information to Manipulate Mobile Devices (2013) | 2019/11/06 | 未 |
+|論文|Voice Augmented Manipulation: Using Paralinguistic Information to Manipulate Mobile Devices (2013) | 2019/11/06 | 2019/11/13 |
+|論文|Voice as Sound: Using Non-verbal Voice Input for Interactive Control | 2019/11/13 | 2019/11/13 |
+|論文|Exploratory Font Selection Using Crowdsourced Attributes| 2019/11/13 | 未 |
