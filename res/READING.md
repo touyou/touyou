@@ -12,3 +12,4 @@
 |論文|Voice Augmented Manipulation: Using Paralinguistic Information to Manipulate Mobile Devices (2013) | 2019/11/06 | 2019/11/13 |
 |論文|Voice as Sound: Using Non-verbal Voice Input for Interactive Control | 2019/11/13 | 2019/11/13 |
 |論文|Exploratory Font Selection Using Crowdsourced Attributes| 2019/11/13 | 未 |
+|論文|Project communication between designers and engineers | 2019/11/23 | 未 |
