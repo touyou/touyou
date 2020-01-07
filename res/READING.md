@@ -13,4 +13,4 @@
 |論文|Voice as Sound: Using Non-verbal Voice Input for Interactive Control | 2019/11/13 | 2019/11/13 |
 |論文|Exploratory Font Selection Using Crowdsourced Attributes| 2019/11/13 | 未 |
 |論文|Project communication between designers and engineers | 2019/11/23 | 未 |
-|論文|Fusion: Opportunistic Web Prototyping with UI Mashups|2020/01/06|未|
+|論文|Fusion: Opportunistic Web Prototyping with UI Mashups|2020/01/06|2020/01/06（仮）|
