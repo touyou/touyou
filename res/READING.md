@@ -14,3 +14,5 @@
 |論文|Exploratory Font Selection Using Crowdsourced Attributes| 2019/11/13 | 未 |
 |論文|Project communication between designers and engineers | 2019/11/23 | 未 |
 |論文|Fusion: Opportunistic Web Prototyping with UI Mashups|2020/01/06|2020/01/06（仮）|
+|論文|Programming by a Sample: Rapidly Creating Web Applications with d.mix|2020/01/10|2020/01/13（仮）|
+|論文|Clip, Connect, Clone: Combining Application Elements to Build custom Interfaces for Information Access|2020/01/10|2020/01/13（仮）|
