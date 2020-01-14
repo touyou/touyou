@@ -16,3 +16,5 @@
 |論文|Fusion: Opportunistic Web Prototyping with UI Mashups|2020/01/06|2020/01/06（仮）|
 |論文|Programming by a Sample: Rapidly Creating Web Applications with d.mix|2020/01/10|2020/01/13（仮）|
 |論文|Clip, Connect, Clone: Combining Application Elements to Build custom Interfaces for Information Access|2020/01/10|2020/01/13（仮）|
+|論文|User-Friendly Functional Programming for Web Mashups|2020/01/14|2020/01/14（仮）|
+|論文|Cracking the Cocoa Nut: User Interface Programming at Runtime|2020/01/14|2020/01/14（仮）|
