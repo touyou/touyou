@@ -18,3 +18,4 @@
 |論文|Clip, Connect, Clone: Combining Application Elements to Build custom Interfaces for Information Access|2020/01/10|2020/01/13（仮）|
 |論文|User-Friendly Functional Programming for Web Mashups|2020/01/14|2020/01/14（仮）|
 |論文|Cracking the Cocoa Nut: User Interface Programming at Runtime|2020/01/14|2020/01/14（仮）|
+|論文|Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure|2020/01/17|2020/01/17（仮）|
