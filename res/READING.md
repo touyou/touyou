@@ -20,3 +20,4 @@
 |   論文   | Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure   | 2020/01/17 | 2020/01/17（仮） |
 |   論文   | Example-Centric Programming: Integrating Web Search into the Development Environment                   | 2020/01/27 | 2020/01/27（仮） |
 |   論文   | Learning Design Semantics for Mobile Apps                                                              | 2020/01/27 | 2020/01/27（仮） |
+|   論文   | Deep Learning for Free-Hand Sketch: A Survey                                                           | 2020/02/25 |      （未）      |
