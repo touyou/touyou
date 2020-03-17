@@ -21,3 +21,4 @@
 |   論文   | Example-Centric Programming: Integrating Web Search into the Development Environment                   | 2020/01/27 | 2020/01/27（仮） |
 |   論文   | Learning Design Semantics for Mobile Apps                                                              | 2020/01/27 | 2020/01/27（仮） |
 |   論文   | Deep Learning for Free-Hand Sketch: A Survey                                                           | 2020/02/25 |      （未）      |
+|   論文   | sketch2code: Generating a website from a paper mockup                                                  | 2020/03/17 |      （未）      |
