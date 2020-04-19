@@ -23,3 +23,5 @@
 |   論文   | Deep Learning for Free-Hand Sketch: A Survey                                                           | 2020/02/25 |      （未）      |
 |   論文   | sketch2code: Generating a website from a paper mockup                                                  | 2020/03/17 |      （未）      |
 |  実用書  | マズロー心理学入門                                                                                     | 2020/04/02 |      （未）      |
+|   小説   | シャーロック・ホームズの冒険                                                                           |  2020/04   |      （未）      |
+|   論文   | Specifying Behavior and Semantic Meaning in an Unmodified Layered Drawing Package                      | 2020/04/18 |      （未）      |
