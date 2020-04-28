@@ -25,3 +25,4 @@
 |  実用書  | マズロー心理学入門                                                                                     | 2020/04/02 |      （未）      |
 |   小説   | シャーロック・ホームズの冒険                                                                           |  2020/04   |      （未）      |
 |   論文   | Specifying Behavior and Semantic Meaning in an Unmodified Layered Drawing Package                      | 2020/04/18 |      （未）      |
+|  実用書  | 1 日 1 ページ、読むだけで身につく世界の教養 365                                                        | 2020/04/20 | 2021/04/19(予定) |
