@@ -20,7 +20,7 @@
 |   論文   | Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure   | 2020/01/17 | 2020/01/17（仮） |
 |   論文   | Example-Centric Programming: Integrating Web Search into the Development Environment                   | 2020/01/27 | 2020/01/27（仮） |
 |   論文   | Learning Design Semantics for Mobile Apps                                                              | 2020/01/27 | 2020/01/27（仮） |
-|   論文   | Deep Learning for Free-Hand Sketch: A Survey                                                           | 2020/02/25 |      （未）      |
+|   論文   | Deep Learning for Free-Hand Sketch: A Survey                                                           | 2020/02/25 | 2020/05/11（仮） |
 |   論文   | sketch2code: Generating a website from a paper mockup                                                  | 2020/03/17 |      （未）      |
 |  実用書  | マズロー心理学入門                                                                                     | 2020/04/02 |      （未）      |
 |   小説   | シャーロック・ホームズの冒険                                                                           |  2020/04   |      （未）      |
