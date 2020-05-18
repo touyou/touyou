@@ -27,3 +27,4 @@
 |   論文   | Specifying Behavior and Semantic Meaning in an Unmodified Layered Drawing Package                      | 2020/04/18 |      （未）      |
 |  実用書  | 1 日 1 ページ、読むだけで身につく世界の教養 365                                                        | 2020/04/20 | 2021/04/19(予定) |
 |   論文   | HCI for the Real World                                                                                 | 2020/05/18 |    2020/05/18    |
+|   論文   | HCI and design: uncomfortable bedfellows?                                                              | 2020/05/18 |    2020/05/18    |
