@@ -28,3 +28,4 @@
 |  実用書  | 1 日 1 ページ、読むだけで身につく世界の教養 365                                                        | 2020/04/20 | 2021/04/19(予定) |
 |   論文   | HCI for the Real World                                                                                 | 2020/05/18 |    2020/05/18    |
 |   論文   | HCI and design: uncomfortable bedfellows?                                                              | 2020/05/18 |    2020/05/18    |
+|   論文   | A Perspective on the Evolution of Live Programming                                                     | 2020/05/18 |    2020/05/19    |
