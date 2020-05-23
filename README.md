@@ -1,6 +1,7 @@
 # touyou
 
 touyouの記録
+→Notionに移行
 
 ## touyouについて
 
