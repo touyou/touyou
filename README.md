@@ -1,17 +1,13 @@
 # touyou
 
-touyouの記録
-→Notionに移行
+- [Notion Home](https://www.notion.so/touyou/touyou-20b6bdde8767409882d3d782396361c1)
+- [Home Page](https://touyou.dev)
 
-## touyouについて
+## 概略
 
-### サイト
-
-- [Wantedly](https://www.wantedly.com/users/47300)
-- [LinkedIn](https://www.linkedin.com/in/touyou/)
-
-### 性格診断
-
-- [エムグラム診断](https://mgram.me/ja/share/LrbUJrQRGJnLPsrkfih)
-- [ポケモン自己分析](https://www.pokemon.co.jp/corporate/job/pokemoncenter/special/result/diglett.html)
-- [キングダムキャラクター診断](https://www.kingdomran.jp/shindan/tou.html)
+- 現東京大学大学院情報理工学系研究科コンピュータ科学専攻五十嵐研究室2年
+- 研究分野はコミュニケーション支援のUI、卒論ではエンジニアとデザイナーのコミュニケーション支援としてレスポンシブな画像に関する新しいシステムを提案した
+- プログラミングは中学生の時にブラッディ・マンデイに感化されて始める
+- 中高時代は主に競技プログラミングをやっていた、その他にAndroid、Unityなど
+- 大学に入ってからiOSアプリ開発を始めてそこからiOS開発メインで活動する
+- Life is Tech !でメンターとして活動中
