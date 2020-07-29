@@ -1,5 +1,16 @@
 # touyou
 
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=touyou&count_private=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touyou" />
+  </a>
+</div>
+
+## Links
+
 - [Notion Home](https://www.notion.so/touyou/touyou-20b6bdde8767409882d3d782396361c1)
 - [Home Page](https://touyou.dev)
 
