@@ -9,6 +9,10 @@
   </a>
 </div>
 
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/touyoubuntu/posts.svg)](http://qiita.com/touyoubuntu)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/touyoubuntu/contributions.svg)](http://qiita.com/touyoubuntu)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/touyoubuntu/followers.svg)](http://qiita.com/touyoubuntu)
+
 ## Links
 
 - [Notion Home](https://www.notion.so/touyou/touyou-20b6bdde8767409882d3d782396361c1)
