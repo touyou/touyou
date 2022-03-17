@@ -19,6 +19,7 @@
 
 - [Notion Home](https://www.notion.so/touyou/touyou-20b6bdde8767409882d3d782396361c1)
 - [Home Page](https://touyou.dev)
+- [Google Developers Profile](https://g.dev/touyou)
 
 ## 概略
 
