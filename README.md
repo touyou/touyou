@@ -1,7 +1,9 @@
 # touyou
 
+### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=touyou)](https://github.com/ryo-ma/github-profile-trophy)
 
+### 📈 GitHub Stats
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=touyou&count_private=true&show_icons=true" />
@@ -11,6 +13,40 @@
   </a>
 </div>
 
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=touyou&hide_border=true&card_width=600)](https://git.io/streak-stats)
+
+### 💎 Skills
+
+#### Main
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,apple,dart,flutter,ts,js,nextjs,tailwind,vscode,figma" />
+  </a>
+</p>
+
+#### Stacks
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,supabase,github,graphql,angular,androidstudio,p5js,aws,vercel" />
+  </a>
+</p>
+
+#### Other language
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md,py,cpp,kotlin,css,html,ocaml,latex" />
+  </a>
+</p>
+
+#### Design
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae" />
+  </a>
+</p>
+
+### ✍️ Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/touyoubuntu/posts.svg)](http://qiita.com/touyoubuntu)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/touyoubuntu/contributions.svg)](http://qiita.com/touyoubuntu)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/touyoubuntu/followers.svg)](http://qiita.com/touyoubuntu)
