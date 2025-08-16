@@ -1,5 +1,7 @@
 # touyou
 
+[![committers.top badge](https://user-badge.committers.top/japan_private/touyou.svg)](https://user-badge.committers.top/japan_private/touyou)
+
 ### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=touyou)](https://github.com/ryo-ma/github-profile-trophy)
 
