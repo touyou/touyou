@@ -49,9 +49,9 @@
 </p>
 
 ### ✍️ Qiita
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/touyoubuntu/posts.svg)](http://qiita.com/touyoubuntu)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/touyoubuntu/contributions.svg)](http://qiita.com/touyoubuntu)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/touyoubuntu/followers.svg)](http://qiita.com/touyoubuntu)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/touyou/posts.svg)](http://qiita.com/touyou)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/touyou/contributions.svg)](http://qiita.com/touyou)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/touyou/followers.svg)](http://qiita.com/touyou)
 
 ## Links
 
