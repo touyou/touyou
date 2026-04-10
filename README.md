@@ -3,15 +3,15 @@
 [![committers.top badge](https://user-badge.committers.top/japan_private/touyou.svg)](https://user-badge.committers.top/japan_private/touyou)
 
 ### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=touyou)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-ebon-iota.vercel.app/?username=touyou)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 GitHub Stats
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=touyou&count_private=true&show_icons=true" />
+    <img src="https://github-readme-stats-dun-three-72.vercel.app/api?username=touyou&count_private=true&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touyou&layout=compact&hide=c,vhdl" />
+    <img src="https://github-readme-stats-dun-three-72.vercel.app/api/top-langs/?username=touyou&layout=compact&hide=c,vhdl" />
   </a>
 </div>
 
