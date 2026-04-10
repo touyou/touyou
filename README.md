@@ -3,7 +3,7 @@
 [![committers.top badge](https://user-badge.committers.top/japan_private/touyou.svg)](https://user-badge.committers.top/japan_private/touyou)
 
 ### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy-ebon-iota.vercel.app/?username=touyou)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-repo.vercel.app/?username=touyou)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 GitHub Stats
 ![Stats](./profile/stats.svg)
