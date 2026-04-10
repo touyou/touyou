@@ -6,14 +6,7 @@
 [![trophy](https://github-profile-trophy-ebon-iota.vercel.app/?username=touyou)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 GitHub Stats
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-dun-three-72.vercel.app/api?username=touyou&count_private=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-dun-three-72.vercel.app/api/top-langs/?username=touyou&layout=compact&hide=c,vhdl" />
-  </a>
-</div>
+![Stats](./profile/stats.svg)
 
 ### 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=touyou&hide_border=true&card_width=600)](https://git.io/streak-stats)
