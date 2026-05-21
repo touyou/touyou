@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Fujii Yosuke's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 233, Total Commits  (last year) : 1511, Total PRs: 357, Total Issues: 401, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 233, Total Commits  (last year) : 1517, Total PRs: 360, Total Issues: 403, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 16.865289752707703;
+        stroke-dashoffset: 16.836652550077517;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >357</text>
+      >360</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >401</text>
+      >403</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
